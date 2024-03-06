@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+### This is under construction 🚧
+- 🔭 I’m currently working on improving my coding skills all around. I'm interested in data science, analytics and data infraestructure!
+- 🌱 I’m currently learning Python, JavaScript and SQL
 
 <!--
 **matheus-leopoldo/matheus-leopoldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
